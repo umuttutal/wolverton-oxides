@@ -106,7 +106,6 @@ Open and run `wolverton.ipynb` to:
 
 - Incorporate ionic radii using Shannon Radii Table with Pymatgen for coordination number and oxidation state calculations
 - Create stability maps highlighting application-specific properties (bandgap for photovoltaics, oxygen vacancy formation for catalysis)
-- Explore ensemble methods combining multiple model architectures
 - Extend to other perovskite structure types beyond ABO₃
 
 ## References
@@ -115,3 +114,7 @@ Open and run `wolverton.ipynb` to:
 
 2. Kim, S., et al. PubChem 2025 update. *Nucleic Acids Res.*, **53**(D1), D1516–D1525 (2025). https://doi.org/10.1093/nar/gkae1059
 
+
+## License
+
+This project is available for academic and research purposes.
